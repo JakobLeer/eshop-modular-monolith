@@ -1,7 +1,6 @@
-﻿namespace Catalog
-{
-    public class Class1
-    {
+﻿namespace Catalog;
 
-    }
+public class Class1
+{
+
 }

@@ -1,7 +1,6 @@
-﻿namespace Ordering
-{
-    public class Class1
-    {
+﻿namespace Ordering;
 
-    }
+public class Class1
+{
+
 }
